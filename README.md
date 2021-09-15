@@ -4,13 +4,15 @@
 
 ### 프로그래머스 Lv.1
 
-| 날짜 |        문제         |                                      풀이링크                                       |
-| :--: | :-----------------: | :---------------------------------------------------------------------------------: |
-| 9/7  | 키패드 누르기 문제  |  [풀이1](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv1/keypad.js)  |
-| 9/7  | 키패드 누르기 문제  | [풀이2](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv1/keypad2.js)  |
-| 9/8  | 6주차 위클리 챌린지 |   [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv1/boxer.js)   |
-| 9/13 |  없는 숫자 더하기   |   [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv1/boxer.js)   |
-| 9/13 |       실패율        | [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv1/fail_rate.js) |
+| 날짜 |         문제         | 알고리즘  |                                      풀이링크                                       |
+| :--: | :------------------: | :-------: | :---------------------------------------------------------------------------------: |
+| 9/7  |  키패드 누르기 문제  |           |  [풀이1](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv1/keypad.js)  |
+| 9/7  |  키패드 누르기 문제  |           | [풀이2](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv1/keypad2.js)  |
+| 9/8  | 6주차 위클리 챌린지  |           |   [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv1/boxer.js)   |
+| 9/13 |   없는 숫자 더하기   |           |   [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv1/boxer.js)   |
+| 9/13 |        실패율        |           | [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv1/fail_rate.js) |
+| 9/15 | 부족한 금액 계산하기 |           | [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv1/calculate.js) |
+| 9/15 |      입실 퇴실       | 투 포인터 |   [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv1/room.js)    |
 
 ## Python
 
