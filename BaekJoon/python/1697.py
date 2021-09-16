@@ -25,3 +25,4 @@ def bfs(v):
 
 N, K = map(int, input().split())
 distance = [0] * 100001
+bfs(N)
