@@ -14,7 +14,7 @@
 | 9/24 |    멀쩡한 사각형     | Lv.2 | 수학(최대공약수) |  [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv2/rectangle.js)   |
 | 9/24 |      타겟 넘버       | Lv.2 |       dfs        | [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv2/targetNumber.js) |
 | 9/25 |        폰켓몬        | Lv.1 |   Set 자료구조   |  [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv1/ponketmon.js)   |
-| 9/25 |       네트워크       | Lv.3 |       dfs        |   [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv3/network.js)    |
+| 9/25 |       네트워크       | Lv.3 |     dfs,bfs      |   [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv3/network.js)    |
 
 ### Python
 
