@@ -22,9 +22,8 @@ def bfs(x, y):
         for i in range(4):
             nx = x+dx[i]
             ny = y+dy[i]
-            if nx < 0 or nx >= N or ny < 0 or ny >= M:
-                continue
-            if graph[nx][ny] == 1:
+
+            if 0 <= nx < N and 0 <= ny < M and graph[nx][ny] == 1:
                 queue.append((nx, ny))
                 # 최단거리 구할 시 이전 노드를 고려해야 함
                 # 13913번/1697번 숨바꼭질 문제와 흡사, 2차원 공간이라는 것이 다름
