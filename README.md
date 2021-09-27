@@ -29,3 +29,4 @@
 | 9/24 | 2667번  |              bfs              | [풀이](https://github.com/bsy1141/algorithm/blob/main/BaekJoon/python/2667.py)  |
 | 9/25 | 7576번  |              dfs              | [풀이](https://github.com/bsy1141/algorithm/blob/main/BaekJoon/python/7576.py)  |
 | 9/26 | 7562번  |              dfs              | [풀이](https://github.com/bsy1141/algorithm/blob/main/BaekJoon/python/7562.py)  |
+| 9/27 | 14226번 |              bfs              | [풀이](https://github.com/bsy1141/algorithm/blob/main/BaekJoon/python/14226.py) |
