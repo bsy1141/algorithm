@@ -16,6 +16,7 @@
 | 9/25 |        폰켓몬        | Lv.1 |          Set 자료구조          |  [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv1/ponketmon.js)   |
 | 9/25 |       네트워크       | Lv.3 |            dfs,bfs             |   [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv3/network.js)    |
 | 9/26 |   뉴스 클러스터링    | Lv.2 | Set 자료구조, 문자열/배열 활용 |  [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv2/clustering.js)  |
+| 9/28 |      오픈채팅방      | Lv.2 |  객체,배열,문자열의 함수 활용  |   [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv2/openChat.js)   |
 
 ### Python
 
@@ -30,3 +31,5 @@
 | 9/25 | 7576번  |              dfs              | [풀이](https://github.com/bsy1141/algorithm/blob/main/BaekJoon/python/7576.py)  |
 | 9/26 | 7562번  |              dfs              | [풀이](https://github.com/bsy1141/algorithm/blob/main/BaekJoon/python/7562.py)  |
 | 9/27 | 14226번 |              bfs              | [풀이](https://github.com/bsy1141/algorithm/blob/main/BaekJoon/python/14226.py) |
+| 9/28 | 13549번 |              bfs              | [풀이](https://github.com/bsy1141/algorithm/blob/main/BaekJoon/python/12549.py) |
+| 9/28 | 1261번  |              bfs              | [풀이](https://github.com/bsy1141/algorithm/blob/main/BaekJoon/python/1261.py)  |
