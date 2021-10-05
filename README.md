@@ -17,6 +17,10 @@
 | 9/25 |       네트워크       | Lv.3 |            dfs,bfs             |   [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv3/network.js)    |
 | 9/26 |   뉴스 클러스터링    | Lv.2 | Set 자료구조, 문자열/배열 활용 |  [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv2/clustering.js)  |
 | 9/28 |      오픈채팅방      | Lv.2 |  객체,배열,문자열의 함수 활용  |   [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv2/openChat.js)   |
+| 9/30 |      메뉴리뉴얼      | Lv.2 |              조합              | [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv2/menuRenewal.js)  |
+| 9/30 |       순위검색       | Lv.2 |         조합, 이분탐색         |    [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv2/search.js)    |
+| 10/4 |      수식최대화      | Lv.2 |              구현              |  [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv2/수식최대화.js)  |
+| 10/4 |         튜플         | Lv.2 |              구현              |     [풀이](https://github.com/bsy1141/algorithm/blob/main/programmers-Lv2/튜플.js)     |
 
 ### Python
 
